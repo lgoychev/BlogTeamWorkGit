@@ -4,7 +4,7 @@
 namespace Blog.Unit.Tests
 {
     //[TestFixture]
-    public class NUnitTest1
+    public class UnitTests
     {
         //[Test]
         public void TestMethod1()
